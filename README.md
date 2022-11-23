@@ -1,7 +1,7 @@
 # JiangWeiye.me
 
 <p align="center">
-  <img src="./avatars.png" alt="icon" width="100" style="border-radius:20px">
+  <img src="https://cdn.jsdelivr.net/gh/jwyGithub/jwyGithub/avatars.png" alt="icon" width="100" style="border-radius:20px">
 </p>
 
 <br>
@@ -32,3 +32,4 @@ console.log(`But I don't have a girlfriend`);
 > blog: https://www.cnblogs.com/jwyblogs
 
 <br>
+
