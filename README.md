@@ -1,4 +1,4 @@
-# JiangWeiye.me
+# JiangWeiye.github
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/jwyGithub/jwyGithub/avatars.png" alt="icon" width="100" style="border-radius:20px">
