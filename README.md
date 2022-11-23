@@ -1,7 +1,7 @@
 # JiangWeiye.me
 
 <p align="center">
-  <img src="./icon/avatars.png" alt="icon" width="100" style="border-radius:20px">
+  <img src="./avatars.png" alt="icon" width="100" style="border-radius:20px">
 </p>
 
 <br>
