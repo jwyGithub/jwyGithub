@@ -16,13 +16,14 @@
 
 ```typescript
 function Animal(name: string) {
-    this.name = '二狗';
+    this.name = name ?? '二狗';
     this.age = 5;
 }
-new Animals();
+
+new Animal('二狗');
+new Animal('三月');
 
 console.log(`I like my cat`);
-console.log(`But I don't have a girlfriend`);
 ```
 
 <br>
