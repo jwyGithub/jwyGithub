@@ -29,10 +29,6 @@ console.log(`I like my cat`);
 ◡̈°²º23⋅努力掙錢এ᭄⋅MySweetHeart◡̈°<br>
 ￣￣￣￣￣￣￣￣￣￣￣
 
-◡̈°²º23⋅Avec WangMengMeng Ensembleএ᭄⋅◡̈°<br>
-￣￣￣￣￣￣￣￣￣￣￣
-<br>
-
 > github: https://github.com/jwyGithub
 
 > blog: https://www.cnblogs.com/jwyblogs
