@@ -1,4 +1,4 @@
-# JiangWeiye.github
+# Yuki.github
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/jwyGithub/jwyGithub/avatars.png" alt="icon" width="100" style="border-radius:20px">
@@ -26,7 +26,7 @@ new Animal('三月');
 console.log(`I like my cat`);
 ```
 <br>
-◡̈°²º23⋅努力掙錢এ᭄⋅MySweetHeart◡̈°<br>
+◡̈°²º25⋅努力掙錢এ᭄⋅MySweetHeart◡̈°<br>
 ￣￣￣￣￣￣￣￣￣￣￣
 
 > github: https://github.com/jwyGithub
