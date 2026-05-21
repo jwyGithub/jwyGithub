@@ -17,11 +17,10 @@
 ```typescript
 function Animal(name: string) {
     this.name = name ?? '二狗';
-    this.age = 5;
+    this.age = 9;
 }
 
 new Animal('二狗');
-new Animal('三月');
 
 console.log(`I like my cat`);
 ```
